@@ -1,0 +1,217 @@
+# Page settings
+baseurl = "localhost:1313"
+title = "Minna: Japanese Daily - 每日日本語"
+languageCode = "en-us"
+theme = "elate"
+
+[params]
+
+  custom_css = ["css/custom1.css", "css/custom2.css"]
+
+  # Meta
+  author = "minna"
+  description = ""
+  email = ""
+
+  # Google Maps Javascript API Key (if not set will default to not passing a key)
+  googleMapsApiKey = ""
+
+  # Navigation
+  [params.navigation]
+    brand = "Minna"
+    home = "Home"
+    work = "features"
+    testimonials = "Testimonials"
+    services = "About"
+    about = "About"
+    contact = "Contact Us"
+
+  # Hero section
+  [params.hero]
+    title = "Learning Japanese has <a>never</a> been such easy<br />without this app."
+    subtitle = "Learn to love to learn."
+
+  # Intro section
+  # Available icons: http://simplelineicons.com/
+  [params.intro]
+
+  [[params.intro.item]]
+    title = "Learn"
+    description = "We help you remember each word and phrase in the easiest and the most effective way."
+    url = "https://nihongo.app.link/BvL7W5unYU"
+    button = "Let's try"
+    icon = "icon-bulb"
+
+  [[params.intro.item]]
+    title = "Keep practice"
+    description = "We provide various of exercises that improve your listening, reading and writing."
+    url = "https://nihongo.app.link/BvL7W5unYU"
+    button = "Download Now"
+    icon = "icon-wrench"
+
+  [[params.intro.item]]
+    title = "Test yourself"
+    description = "When you are tested, you will perform better than if you just looked the material."
+    url = "https://nihongo.app.link/BvL7W5unYU"
+    button = "Time to test"
+    icon = "icon-rocket"
+
+
+  # Work section
+  [params.work]
+    enable = true
+    title = "Features"
+    description = "The best tool for students who are studying Minna no Nihongo or preparing for Japanese-Language Proficiency Test (JLPT)."
+    footertext = 'Both iOS and Android'
+
+    # iOS
+    [[params.work.row]]
+      img = "ios0.png"
+      alt = "Word of the Day"
+      title = "Word of the Day"
+      subtitle = "Keep practice everyday"
+
+    [[params.work.row]]
+      img = "ios1.png"
+      alt = "Learn and write"
+      title = "Learn and write"
+      subtitle = "Write word by word"
+
+    [[params.work.row]]
+      img = "ios3.png"
+      alt = "50 Sounds Charts"
+      title = "50 Sounds Charts"
+      subtitle = "Including Seion, Dakuon and Youon"
+
+    [[params.work.row]]
+      img = "ios4.png"
+      alt = "Test out all the sounds"
+      title = "Test out all the sounds"
+      subtitle = "Make sure you remember all of them"
+
+    [[params.work.row]]
+      img = "ios5.png"
+      alt = "50 lessons"
+      title = "50 lessons"
+      subtitle = "50 lessons from beginning to advance"
+
+    [[params.work.row]]
+      img = "ios6.png"
+      alt = "Various ways of studying"
+      title = "Various ways of studying"
+      subtitle = "Learn the vocabulary easily"
+
+    [[params.work.row]]
+      img = "ios7.png"
+      alt = "Test yourself"
+      title = "Test yourself"
+      subtitle = "Test your fluidity in translating"
+
+    [[params.work.row]]
+      img = "ios8.png"
+      alt = "Listening test"
+      title = "Listening test"
+      subtitle = "Test your fluidity in listening"
+
+    [[params.work.row]]
+      img = "ios9.png"
+      alt = "Searching the vocabulary"
+      title = "Searching the vocabulary"
+      subtitle = "Find the vocabulary you learnt easily"
+
+    # Android
+    [[params.work.row]]
+      img = "android0.png"
+      alt = "Word of the Day"
+      title = "Word of the Day"
+      subtitle = "Keep practice everyday"
+
+    [[params.work.row]]
+      img = "android1.png"
+      alt = "Learn and write"
+      title = "Learn and write"
+      subtitle = "Write word by word"
+
+    [[params.work.row]]
+      img = "android3.png"
+      alt = "50 Sounds Charts"
+      title = "50 Sounds Charts"
+      subtitle = "Including Seion, Dakuon and Youon"
+
+    [[params.work.row]]
+      img = "android4.png"
+      alt = "Test out all the sounds"
+      title = "Test out all the sounds"
+      subtitle = "Make sure you remember all of them"
+
+    [[params.work.row]]
+      img = "android5.png"
+      alt = "50 lessons"
+      title = "50 lessons"
+      subtitle = "50 lessons from beginning to advance"
+
+    [[params.work.row]]
+      img = "android6.png"
+      alt = "Various ways of studying"
+      title = "Various ways of studying"
+      subtitle = "Learn the vocabulary easily"
+
+    [[params.work.row]]
+      img = "android7.png"
+      alt = "Test yourself"
+      title = "Test yourself"
+      subtitle = "Test your fluidity in translating"
+
+    [[params.work.row]]
+      img = "android8.png"
+      alt = "Listening test"
+      title = "Listening test"
+      subtitle = "Test your fluidity in listening"
+
+    [[params.work.row]]
+      img = "android9.png"
+      alt = "Searching the vocabulary"
+      title = "Searching the vocabulary"
+      subtitle = "Find the vocabulary you learnt easily"
+
+  # Testimonials section
+  [params.testimonials]
+    enable = true
+    title = "Testimonials"
+    description = "Here are our happy users."
+
+    [[params.testimonials.item]]
+      quote = "&ldquo;Excellent app to be the perfect companion on the go the study Japanese! Thank you for this amazing work! I’m French, I have the Minna No Nihongo French version and I would like to help to add the French language to your app.&rdquo;"
+      person = 'Jérémy'
+      img = "person1.jpg"
+      alt = "Person1"
+
+    [[params.testimonials.item]]
+      quote = "&ldquo;Fantastic!&rdquo;"
+      person = 'Peter'
+      img = "person3.jpg"
+      alt = "Person3"
+
+    [[params.testimonials.item]]
+      quote = "&ldquo;I really like the changes and the new features! It’s a great app though and I’m glad I found it!&rdquo;"
+      person = 'Angelina'
+      img = "person2.jpg"
+      alt = "Person2"
+
+
+  # Services section
+  [params.services]
+    enable = true
+    title = "Japanese Daily - 每日日本語"
+    description = "Are you learning Japanese and looking for something more than flashcards? Congratulations! You have hit the jackpot. Japanese Daily comprises the 50 sounds charts, vocabularies, listening tests, multiple choice questions, translation exercises (i.e. hiragana to katagana, katagana to romaji, romaji to kanji and the like). It takes you 10 minutes or more every day to improve your Japanese. It is designed for both beginners and intermediate learners of Japanese. Japanese Daily contains reading, writing, and listening tests, it is the perfect app which has everything you need."
+
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = '&copy; Japanese Daily. All Rights Reserved.'
+    links = [
+        ["icon-envelope", "info@dllm.io"],
+        ["icon-facebook", "https://www.facebook.com/minnaanihongo"],
+        ["icon-link", "https://nihongo.app.link/BvL7W5unYU"],
+      ]
