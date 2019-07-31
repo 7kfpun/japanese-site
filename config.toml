@@ -28,7 +28,7 @@ theme = "elate"
 
   # Hero section
   [params.hero]
-    title = "Learning Japanese has <a>never</a> been such easy<br />without this app."
+    title = "Learning Japanese is <a>hard</a><br />without a right tool."
     subtitle = "Learn to love to learn."
 
   # Intro section
