@@ -2,8 +2,8 @@
 
 ## Download
 
-[![App Store Button](assets/app-store.png "App Store Button")](https://itunes.apple.com/us/app/id1447639161?mt=8)
-[![Play Store Button](assets/google-play.png "Google Play Button")](https://play.google.com/store/apps/details?id=com.kfpun.nihongo)
+[![App Store Button](static/images/app-store.png "App Store Button")](https://itunes.apple.com/us/app/id1447639161?mt=8)
+[![Play Store Button](static/images/google-play.png "Google Play Button")](https://play.google.com/store/apps/details?id=com.kfpun.nihongo)
 
 ## Prerequisite
 
