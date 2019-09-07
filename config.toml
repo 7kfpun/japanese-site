@@ -20,7 +20,7 @@ theme = "elate"
   [params.navigation]
     brand = "Minna"
     home = "Home"
-    work = "features"
+    work = "Features"
     testimonials = "Testimonials"
     services = "About"
     about = "About"
@@ -203,7 +203,7 @@ theme = "elate"
   [params.services]
     enable = true
     title = "Japanese Daily - 每日日本語"
-    description = "Are you learning Japanese and looking for something more than flashcards? Congratulations! You have hit the jackpot. Japanese Daily comprises the 50 sounds charts, vocabularies, listening tests, multiple choice questions, translation exercises (i.e. hiragana to katagana, katagana to romaji, romaji to kanji and the like). It takes you 10 minutes or more every day to improve your Japanese. It is designed for both beginners and intermediate learners of Japanese. Japanese Daily contains reading, writing, and listening tests, it is the perfect app which has everything you need."
+    description = "Are you learning Japanese and looking for something more than flashcards? Congratulations! You have hit the jackpot. Japanese Daily comprises the 50 sounds charts, vocabularies, listening tests, multiple choice questions, translation exercises (i.e. hiragana to katagana, katagana to romaji, romaji to kanji and the like). It takes you 10 minutes or more every day to improve your Japanese. It is designed for both beginners and intermediate learners of Japanese. Japanese Daily contains reading, writing, and listening tests, it is the perfect app which has everything you need. <br><br><a href=\"https://nihongo.app.link/BvL7W5unYU\"><img src=\"/images/app-store.png\" /> <a href=\"https://nihongo.app.link/BvL7W5unYU\"><img src=\"/images/google-play.png\" /></a>"
 
 
   # Footer section
